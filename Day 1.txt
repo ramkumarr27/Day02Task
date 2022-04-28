@@ -1,0 +1,22 @@
+
+Question 1 :
+What is the difference between http and https...??
+Answer :
+HTTP -
+HTTP stands for hyper text transfer protocol.
+It works at the application layer.
+The default port number is 80 for communication.
+No  Encryption is present in HTTP websites
+HTTPS-
+HTTPS stands for hyper text transfer protocol secure.
+It works at the transport layer.
+The default port number is 443 for communication.
+Both Encryption and Decryption exists on HTTPS websites
+Question 2 :
+Write a blog about objects and its internal representation in Javascript
+Answer :
+Objects are represented in the form of key value pairs. For ex : "name" : "Abdul kalam"
+Each key value pairs are seperated by using commas ( , ).
+Object consumes less memory space when compared to Arrays.
+
+
